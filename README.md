@@ -40,6 +40,10 @@ npm run lint
 npm run build
 ```
 
+## 公開版 SOP
+
+本機安裝、資料備份／還原、貢獻流程、發版與安全檢查請見 [Public SOP](docs/PUBLIC_SOP.md)。
+
 ## 授權
 
 [MIT](LICENSE)
