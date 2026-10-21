@@ -99,7 +99,7 @@ npm run build
 
 ## 6. 發版與 Vercel 部署
 
-正式站：<https://person-work-notion-plan.vercel.app>
+公開版：<https://person-work-notion-plan.vercel.app>
 
 標準流程：
 
